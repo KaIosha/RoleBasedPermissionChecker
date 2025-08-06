@@ -1,0 +1,14 @@
+E:\DEPI\DOT NET\FlagEnumTask\FlagEnumTask\bin\Debug\net8.0\FlagEnumTask.exe
+E:\DEPI\DOT NET\FlagEnumTask\FlagEnumTask\bin\Debug\net8.0\FlagEnumTask.deps.json
+E:\DEPI\DOT NET\FlagEnumTask\FlagEnumTask\bin\Debug\net8.0\FlagEnumTask.runtimeconfig.json
+E:\DEPI\DOT NET\FlagEnumTask\FlagEnumTask\bin\Debug\net8.0\FlagEnumTask.dll
+E:\DEPI\DOT NET\FlagEnumTask\FlagEnumTask\bin\Debug\net8.0\FlagEnumTask.pdb
+E:\DEPI\DOT NET\FlagEnumTask\FlagEnumTask\obj\Debug\net8.0\FlagEnumTask.GeneratedMSBuildEditorConfig.editorconfig
+E:\DEPI\DOT NET\FlagEnumTask\FlagEnumTask\obj\Debug\net8.0\FlagEnumTask.AssemblyInfoInputs.cache
+E:\DEPI\DOT NET\FlagEnumTask\FlagEnumTask\obj\Debug\net8.0\FlagEnumTask.AssemblyInfo.cs
+E:\DEPI\DOT NET\FlagEnumTask\FlagEnumTask\obj\Debug\net8.0\FlagEnumTask.csproj.CoreCompileInputs.cache
+E:\DEPI\DOT NET\FlagEnumTask\FlagEnumTask\obj\Debug\net8.0\FlagEnumTask.dll
+E:\DEPI\DOT NET\FlagEnumTask\FlagEnumTask\obj\Debug\net8.0\refint\FlagEnumTask.dll
+E:\DEPI\DOT NET\FlagEnumTask\FlagEnumTask\obj\Debug\net8.0\FlagEnumTask.pdb
+E:\DEPI\DOT NET\FlagEnumTask\FlagEnumTask\obj\Debug\net8.0\FlagEnumTask.genruntimeconfig.cache
+E:\DEPI\DOT NET\FlagEnumTask\FlagEnumTask\obj\Debug\net8.0\ref\FlagEnumTask.dll
